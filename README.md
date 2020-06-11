@@ -1,4 +1,4 @@
-# expandabletext
+# EXPANDABLE TEXT
 
 An extensible text widget for Flutter.
 
