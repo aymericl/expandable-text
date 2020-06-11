@@ -73,19 +73,5 @@ class _MyHomePageState extends State<MyHomePage> {
                   maxHeight: 100.0,
                   durationMS: 500))
         ]));
-    /* return Column(children: <Widget>[
-      Container(
-          child: ExpandableText(
-              text : new Text(
-                widget.text,
-                softWrap: true,
-                overflow: TextOverflow.fade,
-                style: TextStyle(
-                    fontWeight: FontWeight.w700,
-                    fontSize: 20,
-                    color: Colors.white)),
-              maxHeight: 100.0,
-              durationMS: 500))
-    ]);*/
   }
 }
