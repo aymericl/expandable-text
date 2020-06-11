@@ -2,15 +2,8 @@
 
 An extensible text widget for Flutter.
 
-## Getting Started
+## DEMO ONLINE
 
-This project is a starting point for a Flutter application.
+https://dartpad.dartlang.org/da1fd952e1d776da0588f6f9b8f506ee
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
